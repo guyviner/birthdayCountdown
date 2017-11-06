@@ -1,0 +1,34 @@
+body {
+  background-color: aliceblue;
+  /*background-image: url("http://enolivier.com/img/birthday-cupcake-ideas/_fullsize/comely-birthday-cupcake-ideas-your-kids-gonna-birthday-cupcake-ideas-your-kids-gonna-whole-parent_birthday-cupcake-ideas.jpg");*/
+  background-size: cover;
+  /*background-repeat: no-repeat;*/
+  /*background-blend-mode: hue;*/
+  /*background-position: center;*/
+  /*background-repeat: no-repeat;*/
+  /*background-attachment: scroll;*/
+}
+.App {
+  text-align: center;
+  padding-top: 20%;
+}
+
+.Header {
+  font-size: 35px;
+}
+
+.Body {
+  font-size: 25px;
+  display: inline;
+  padding: 10px;
+}
+.Date{
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  color: navy;
+}
+.Input {
+  width: 200px;
+  margin-right: 10px;
+}
